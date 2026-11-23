@@ -49,8 +49,8 @@ flowchart LR
 **Limits:** the dataset is a sample, so numbers show relative differences, not real volumes.
 The analysis is descriptive, not causal.
 
-![Trips per hour by weather](docs/dashboard_weather.png)
-![Trips by hour and day](docs/dashboard_hourly.png)
+![Trips per hour by weather](Dashboard/dashboard_weather.png)
+![Trips by hour and day](Dashboard/dashboard_hourly.png)
 
 ## Notebooks
 
